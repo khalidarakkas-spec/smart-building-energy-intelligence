@@ -10,11 +10,11 @@ The project transforms raw building, electricity, and weather data into an inter
 
 ### Executive Overview
 
-![executive Overview](executive-overview.png)
+![Executive Dashboard](./Smart-Building-Project/executive-overview.png)
 
 ### Building Performance Detail
 
-![building Detail](building-detail.png)
+![Building Detail Dashboard](./Smart-Building-Project/building-detail.png)
 
 ---
 
