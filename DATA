@@ -1,0 +1,25 @@
+# Dataset
+
+This project uses public data from the
+Building Data Genome Project 2 (BDG2).
+
+The dataset contains building metadata, hourly meter readings,
+and weather observations for non-residential buildings.
+
+## Data used in this project
+
+- Building metadata
+- Hourly electricity consumption
+- Weather data
+
+The complete raw dataset is not included in this repository
+because of its size.
+
+Dataset:
+Building Data Genome Project 2
+
+Source:
+https://github.com/buds-lab/building-data-genome-project-2
+
+Research paper:
+https://doi.org/10.1038/s41597-020-00712-x
